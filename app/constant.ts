@@ -123,6 +123,7 @@ export enum ServiceProvider {
   XAI = "XAI",
   ChatGLM = "ChatGLM",
   DeepSeek = "DeepSeek",
+  Microsoft = "Microsoft"
 }
 
 // Google API safety settings, see https://ai.google.dev/gemini-api/docs/safety-settings
@@ -148,6 +149,7 @@ export enum ModelProvider {
   XAI = "XAI",
   ChatGLM = "ChatGLM",
   DeepSeek = "DeepSeek",
+  Microsoft = "Microsoft"
 }
 
 export const Stability = {
